@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 0c8ac1e5a48a8c547bd3cba9bb9c2b09
+timeCreated: 1511369886
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ArenHack_Bot
+    100004: CATRigAnkleBone001Gizmo
+    100006: CATRigAnkleBone001Gizmo 1
+    100008: CATRigHub001Gizmo
+    100010: CATRigHub002Gizmo
+    100012: CATRigHub003Gizmo
+    100014: CATRigLArm1Gizmo
+    100016: CATRigLArm2Gizmo
+    100018: CATRigLArmDigit11
+    100020: CATRigLArmDigit11Gizmo
+    100022: CATRigLArmDigit12
+    100024: CATRigLArmDigit12Gizmo
+    100026: CATRigLArmDigit13
+    100028: CATRigLArmDigit13Gizmo
+    100030: CATRigLArmDigit21
+    100032: CATRigLArmDigit21Gizmo
+    100034: CATRigLArmDigit22
+    100036: CATRigLArmDigit22Gizmo
+    100038: CATRigLArmDigit23
+    100040: CATRigLArmDigit23Gizmo
+    100042: CATRigLArmDigit31
+    100044: CATRigLArmDigit31Gizmo
+    100046: CATRigLArmDigit32
+    100048: CATRigLArmDigit32Gizmo
+    100050: CATRigLArmDigit3Doigt3
+    100052: CATRigLArmDigit3Doigt3Gizmo
+    100054: CATRigLArmIKTarget
+    100056: CATRigLArmPalmGizmo
+    100058: CATRigLLeg2Gizmo
+    100060: CATRigLLegPlatform
+    100062: CATRigRArm1Gizmo
+    100064: CATRigRArm2Gizmo
+    100066: CATRigRArmDigit11
+    100068: CATRigRArmDigit11Gizmo
+    100070: CATRigRArmDigit12
+    100072: CATRigRArmDigit12Gizmo
+    100074: CATRigRArmDigit13
+    100076: CATRigRArmDigit13Gizmo
+    100078: CATRigRArmDigit21
+    100080: CATRigRArmDigit21Gizmo
+    100082: CATRigRArmDigit22
+    100084: CATRigRArmDigit22Gizmo
+    100086: CATRigRArmDigit23
+    100088: CATRigRArmDigit23Gizmo
+    100090: CATRigRArmDigit31
+    100092: CATRigRArmDigit31Gizmo
+    100094: CATRigRArmDigit32
+    100096: CATRigRArmDigit32Gizmo
+    100098: CATRigRArmDigit3Doigt3
+    100100: CATRigRArmDigit3Doigt3Gizmo
+    100102: CATRigRArmIKTarget
+    100104: CATRigRArmPalmGizmo
+    100106: CATRigRLeg2Gizmo
+    100108: CATRigRLegPlatform
+    100110: Head
+    100112: Hips
+    100114: LeftAnkle
+    100116: LeftForeArm
+    100118: LeftLeg
+    100120: LeftToe
+    100122: LeftUpperArm
+    100124: LeftUpperLeg
+    100126: LeftWrist
+    100128: Neck
+    100130: RightAnkle
+    100132: RightForeArm
+    100134: RightLeg
+    100136: RightToe
+    100138: RightUpperArm
+    100140: RightUpperLeg
+    100142: RightWrist
+    100144: ShoulderLine
+    100146: Spine
+    400000: //RootNode
+    400002: ArenHack_Bot
+    400004: CATRigAnkleBone001Gizmo
+    400006: CATRigAnkleBone001Gizmo 1
+    400008: CATRigHub001Gizmo
+    400010: CATRigHub002Gizmo
+    400012: CATRigHub003Gizmo
+    400014: CATRigLArm1Gizmo
+    400016: CATRigLArm2Gizmo
+    400018: CATRigLArmDigit11
+    400020: CATRigLArmDigit11Gizmo
+    400022: CATRigLArmDigit12
+    400024: CATRigLArmDigit12Gizmo
+    400026: CATRigLArmDigit13
+    400028: CATRigLArmDigit13Gizmo
+    400030: CATRigLArmDigit21
+    400032: CATRigLArmDigit21Gizmo
+    400034: CATRigLArmDigit22
+    400036: CATRigLArmDigit22Gizmo
+    400038: CATRigLArmDigit23
+    400040: CATRigLArmDigit23Gizmo
+    400042: CATRigLArmDigit31
+    400044: CATRigLArmDigit31Gizmo
+    400046: CATRigLArmDigit32
+    400048: CATRigLArmDigit32Gizmo
+    400050: CATRigLArmDigit3Doigt3
+    400052: CATRigLArmDigit3Doigt3Gizmo
+    400054: CATRigLArmIKTarget
+    400056: CATRigLArmPalmGizmo
+    400058: CATRigLLeg2Gizmo
+    400060: CATRigLLegPlatform
+    400062: CATRigRArm1Gizmo
+    400064: CATRigRArm2Gizmo
+    400066: CATRigRArmDigit11
+    400068: CATRigRArmDigit11Gizmo
+    400070: CATRigRArmDigit12
+    400072: CATRigRArmDigit12Gizmo
+    400074: CATRigRArmDigit13
+    400076: CATRigRArmDigit13Gizmo
+    400078: CATRigRArmDigit21
+    400080: CATRigRArmDigit21Gizmo
+    400082: CATRigRArmDigit22
+    400084: CATRigRArmDigit22Gizmo
+    400086: CATRigRArmDigit23
+    400088: CATRigRArmDigit23Gizmo
+    400090: CATRigRArmDigit31
+    400092: CATRigRArmDigit31Gizmo
+    400094: CATRigRArmDigit32
+    400096: CATRigRArmDigit32Gizmo
+    400098: CATRigRArmDigit3Doigt3
+    400100: CATRigRArmDigit3Doigt3Gizmo
+    400102: CATRigRArmIKTarget
+    400104: CATRigRArmPalmGizmo
+    400106: CATRigRLeg2Gizmo
+    400108: CATRigRLegPlatform
+    400110: Head
+    400112: Hips
+    400114: LeftAnkle
+    400116: LeftForeArm
+    400118: LeftLeg
+    400120: LeftToe
+    400122: LeftUpperArm
+    400124: LeftUpperLeg
+    400126: LeftWrist
+    400128: Neck
+    400130: RightAnkle
+    400132: RightForeArm
+    400134: RightLeg
+    400136: RightToe
+    400138: RightUpperArm
+    400140: RightUpperLeg
+    400142: RightWrist
+    400144: ShoulderLine
+    400146: Spine
+    4300000: ArenHack_Bot
+    9500000: //RootNode
+    13700000: ArenHack_Bot
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default
+    second: {fileID: 2100000, guid: d6fff25cd96099a4591bbb34f96f991e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
